@@ -1,0 +1,3 @@
+#!/usr/bin/env ruby
+require "qt-deploy-win/cli"
+QtDeployWin::Cli.exec
