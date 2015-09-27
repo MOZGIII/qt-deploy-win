@@ -4,7 +4,7 @@
 
 This is a tiny command-line utility that takes a Qt application executable file built for Windows and produces a directory with a complete set of dependencies required to run the executable on other machines.
 
-It is effectively a thin wrapper around Qt's build in `windeployqt` that tries to guess and set some environment variables for you and does some other useful actions that you don't need to do manually.
+It is effectively a thin wrapper around Qt's `windeployqt` that tries to guess and set some environment variables for you and does some other useful actions that you don't need to do manually.
 
 ## Installation
 
